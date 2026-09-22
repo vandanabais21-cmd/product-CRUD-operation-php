@@ -1,0 +1,66 @@
+[
+    {
+        "id": 3,
+        "name": "Cat",
+        "category": "Mamal",
+        "price": "700.00",
+        "image": "74730a2f2325c0314956ccc68268be62.png",
+        "created_at": "2026-09-15 13:39:10"
+    },
+    {
+        "id": 4,
+        "name": "asjjj",
+        "category": "Mamal",
+        "price": "3333.00",
+        "image": "cb99cd5f00c5148b2e23fefa83924ab3.png",
+        "created_at": "2026-09-15 13:57:39"
+    },
+    {
+        "id": 5,
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": "2222.00",
+        "image": "d7ac12bb5d444408ed55c4786fd8e250.png",
+        "created_at": "2026-09-15 13:58:03"
+    },
+    {
+        "id": 6,
+        "name": "owl",
+        "category": "bird",
+        "price": "500.00",
+        "image": "734641012611a9b4a189b33d6a19cc5a.png",
+        "created_at": "2026-09-15 13:58:47"
+    },
+    {
+        "id": 7,
+        "name": "Tiger",
+        "category": "Beast",
+        "price": "600.00",
+        "image": "35e6f6dee2250bf3918dbcc33617ed02.png",
+        "created_at": "2026-09-15 13:59:21"
+    },
+    {
+        "id": 8,
+        "name": "Iron",
+        "category": "Electronics",
+        "price": "400.00",
+        "image": "78f808d62baf263bb6912768fa70abf7.png",
+        "created_at": "2026-09-15 13:59:57"
+    },
+    {
+        "id": 9,
+        "name": "Doll",
+        "category": "Toy",
+        "price": "2333.00",
+        "image": "bf1b9e4492233fefe8ccd388bc84915f.png",
+        "created_at": "2026-09-15 14:03:16"
+    },
+    {
+        "id": 1,
+        "name": "laptop",
+        "category": "electronice",
+        "price": "500000.00",
+        "image": "b55e2a59acb8b1f20be8b4a32d69638a.png",
+        "created_at": "2026-09-22 19:45:52"
+    }
+]
